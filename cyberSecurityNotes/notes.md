@@ -45,13 +45,17 @@ Regulatory fines: The number of organizations paying more than USD 50,000 in reg
 |Amazon GuardDuty|Amazon GuardDuty is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts, workloads, and data stored in Amazon S3. |
 |Amazon Inspector| Amazon Inspector is a vulnerability management service that continually scans AWS workloads for software vulnerabilities and unintended network exposure.|
 
-## Paloatlo
+### Paloatlo
 
 [Link to Paloatlo](https://www.paloaltonetworks.ca/)
 
-### netowrk based Products
+### Cisco Cyber threats
 
+[Link to Cisco](https://www.cisco.com/c/en/us/products/security/cyber-threat-trends-report.html?utm_medium=search-paid&utm_source=google&utm_campaign=CSA_AMER_NA_EN_GS_Nonbrand_Security_T1&utm_content=CSA-CONT-COX-FY24-Q4-Content-Ebook-Cyber-Threat-Trends-Report-ABX&utm_term=cyber%20security&utm_matchtype=p&utm_device=c&_bt=717415301408&_bk=cyber%20security&_bm=p&_bn=g&_bg=166647630863&gad_source=1&gad_campaignid=21742055718&gbraid=0AAAAA-OrpYrE_ljlBw1A3l9TSOYdfqAY5&gclid=Cj0KCQjwornRBhCrARIsAON5exFyDEt1NH6DaICgFw6FYNC2_P2i2w-MYuPym4_M4Jm3H8X-BvX7mB0aAmdKEALw_wcB)
 
-### SOC 
+> Cisco has a unique vantage point when it comes to cybersecurity. Because we resolve an average of 715 billion DNS requests daily, we see more data security threats, more malware, and more cyberattacks than any other security vendor.
 
-### SASE
+Our analysis of the most common internet-based threats
+- What the last year of threat trend data tells us about the threat landscape
+- Examples of data security threat types in the wild
+- Recommendations for how to use this threat intelligence to strengthen your security posture
