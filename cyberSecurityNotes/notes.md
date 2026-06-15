@@ -59,3 +59,29 @@ Our analysis of the most common internet-based threats
 - What the last year of threat trend data tells us about the threat landscape
 - Examples of data security threat types in the wild
 - Recommendations for how to use this threat intelligence to strengthen your security posture
+
+[This is the link to the IBM ransom website](https://www.ibm.com/think/topics/ransomware)
+
+# what is ransom attacks?
+
+> Ransomware is a type of malware that holds a victim’s sensitive data or device hostage, threatening to keep it locked—or worse—unless the victim pays a ransom to the attacker.
+
+## example of a ranson attack 
+
+>The earliest ransomware attacks simply demanded a ransom in exchange for the encryption key needed to regain access to the affected data or use of the infected device. By making regular or continuous data backups, an organization could limit costs from these types of ransomware attacks and often avoid paying the ransom demand.
+
+## why do we care about ransom  
+
+> Ransomware is one of the most common forms of malicious software, and ransomware attacks can cost affected organizations millions of dollars. Beyond the ransom itself, organizations face regulatory fines, lawsuits and long-term damage to customer trust.
+
+>The IBM 2026 X-Force Threat Intelligence Index, found that the number of active ransomware and extortion groups rose 49% year over year, from 73 groups in 2024 to 109 in 2025. Manufacturing, healthcare and energy remain the most targeted sectors, with manufacturing topping the list for the fifth consecutive year.
+
+## how does ransom work? 
+
+A ransomware attack typically moves through a series of stages before a victim ever sees a ransom demand:
+
+- Stage 1: Initial access
+- Stage 2: Post-exploitation
+- Stage 3: Understand and expand
+- Stage 4: Data collection and exfiltration
+- Stage 5: Deployment and extortion
